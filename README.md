@@ -3,7 +3,7 @@ In this project I made a application that users can write reviews.
 
 
 
-![alt tag](public/review.png)
+![alt tag](public/movie.png)
 
 ## How It's Made:
 
